@@ -1,0 +1,7 @@
+entity1,entity2,relation,confidence
+http://example.org/thesis/O1#PizzaBasis,http://example.org/thesis/O2#PizzaBase,=,1.0
+http://example.org/thesis/O1#Pizza,http://example.org/thesis/O2#Pizza,=,1.0
+http://example.org/thesis/O1#AppointedPizza,http://example.org/thesis/O2#NamedPizza,=,1.0
+http://example.org/thesis/O1#SohoPizza,http://example.org/thesis/O2#SohoPizza,=,1.0
+http://example.org/thesis/O1#MargheritaPizza,http://example.org/thesis/O2#MargheritaPizza,=,1.0
+http://example.org/thesis/O1#SohoPizza,http://example.org/thesis/O2#MargheritaPizza,=,1.0

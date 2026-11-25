@@ -1,0 +1,9 @@
+approach,pair,Cons,Coh,n_named_classes,n_unsatisfiable_classes,Comp_tau,n_requirements,n_entailed,n_alignment_axioms_added,n_alignment_cells_skipped
+SMASMT-OA (LR),O1_Pizza-O2_Pizza,1,1.0,10,0,0.667,3,2,2,
+SMASMT-OA (GBC),O1_Pizza-O2_Pizza,1,1.0,10,0,1.0,3,3,6,
+OAVA-SMASM (LR),O1_Pizza-O2_Pizza,1,1.0,10,0,0.667,3,2,2,
+OAVA-SMASM (GBC),O1_Pizza-O2_Pizza,1,1.0,10,0,1.0,3,3,3,
+MLOA (LR),O1_Pizza-O2_Pizza,1,1.0,10,0,1.0,3,3,5,
+MLOA (GBC),O1_Pizza-O2_Pizza,0,,10,,,3,0,4,
+StressTest: Gold G,O1_Pizza-O2_Pizza,1,1.0,10,0,1.0,3,3,5,
+StressTest: Gold G + FP (Soho ≡ Margherita),O1_Pizza-O2_Pizza,0,,10,,,3,0,6,
